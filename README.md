@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yemola
-- 👀 I’m interested in being a great programmer.
-- 🌱 I’m currently learning html, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on a project with the above skills
-- 📫 How to reach me at yemolaolu@gmail.com.
+- 👋 Hi, I’m Olayemi Abunsango, a web developer
+- 👀 equipped with cool tips and tricks for building beautiful, responsive, and blazingly fast websites.
+- 🌱 skilled in HTML, CSS, and JavaScript. Can also build icons, logo, etc with SVG(sample included below)
+- 💞️ Interested in collaborating on projects with the skills stated above.
+- 📫 You may reach me @ yemolaolu@gmail.com or on mobile: +234 8036032790
 
 <!---
 yemola/yemola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
