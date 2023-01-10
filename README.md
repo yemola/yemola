@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Olayemi Abunsango, a web developer
-- 👀 equipped with cool tips and tricks for building beautiful, responsive, and blazingly fast websites.
-- 🌱 skilled in HTML, CSS, and JavaScript. Can also build icons, logo, etc with SVG(sample attached above)
+- 👋 Hi, I’m Olayemi Abunsango, a full-stack JavaScript developer 
+- 👀 equipped with cool tips and tricks for building beautiful, responsive, and blazingly fast websites and cros-platform mobile apps
+- 🌱 skilled in HTML, CSS, JavaScript, Typescript, React, and React Native. Can also build icons, logo, etc with SVG(sample attached above)
 - 💞️ Interested in collaborating on projects with the skills stated above.
 - 📫 You may reach me @ yemolaolu@gmail.com or on mobile: +234 8036032790
 
